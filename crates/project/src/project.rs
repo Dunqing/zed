@@ -90,7 +90,7 @@ use std::{
 };
 use task::static_source::StaticSource;
 use terminals::Terminals;
-use text::{Anchor, BufferId, Rope};
+use text::{Anchor, BufferId};
 use util::{
     debug_panic, defer,
     http::HttpClient,
